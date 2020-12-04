@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value=" Answer table">b82dc7b62fbc60106b0ed5f62799b649</application>
+        <filter/>
+        <name>Approval Levels</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.approval_levels_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 14:07:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f02dc7b62fbc60106b0ed5f62799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Levels</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_f02dc7b62fbc60106b0ed5f62799b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 14:07:24</sys_updated_on>
+        <table>x_58872_needit_approval_levels</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>13039942dba1f30407072f17d496197f</instance_id>
+        <instance_name>dev86248</instance_name>
+        <name>sys_ui_module_f02dc7b62fbc60106b0ed5f62799b64c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value=" Answer table">b82dc7b62fbc60106b0ed5f62799b649</application><filter/><name>Approval Levels</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.approval_levels_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-04 14:07:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f02dc7b62fbc60106b0ed5f62799b64c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval Levels</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_f02dc7b62fbc60106b0ed5f62799b64c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-04 14:07:24</sys_updated_on><table>x_58872_needit_approval_levels</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1240086932</payload_hash>
+        <record_name>Approval Levels</record_name>
+        <reverted_from/>
+        <source>4d32b8de2fb020106b0ed5f62799b6e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 14:07:24</sys_created_on>
+        <sys_id>782dc7b62fbc60106b0ed5f62799b667</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1762e1434970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 14:07:24</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b02dc7b6bbbc6010317fd809a30c7c67</update_guid>
+        <update_guid_history>b02dc7b6bbbc6010317fd809a30c7c67:-1240086932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 14:16:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0d696e48dc8143518253f83fd190fa19</sys_id>
+        <sys_metadata>f02dc7b62fbc60106b0ed5f62799b64c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Levels</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_f02dc7b62fbc60106b0ed5f62799b64c</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_f02dc7b62fbc60106b0ed5f62799b64c">782dc7b62fbc60106b0ed5f62799b667</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 14:16:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
